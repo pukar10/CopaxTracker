@@ -1,0 +1,28 @@
+<resources>
+    <string-array name="Sites">
+        <item>Right Arm</item>
+        <item>Right Thigh</item>
+        <item>Right Stomach</item>
+        <item>Left Arm</item>
+        <item>Left Thigh</item>
+        <item>Left Stomach</item>
+    </string-array>
+    <string name="app_name">CopaxTracker</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="Tracker">Tracker</string>
+    <string name="Tutorial">Tutorial</string>
+    <string name="Settings">Settings</string>
+    <string name="Learn_More">Learn More</string>
+    <string name="Next_Site">Next Site: </string>
+    <string name="Date">Date: </string>
+    <string name="Site">Site:</string>
+    <string name="Start">Start</string>
+    <string name="Add">Add</string>
+    <string name="zero">0</string>
+    <string name="Password">Password</string>
+    <string name="Sign_Out">Sign Out</string>
+    <string name="CopaxTracker">CopaxTracker</string>
+    <string name="Update">Update</string>
+</resources>

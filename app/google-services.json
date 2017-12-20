@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371394754910",
+    "firebase_url": "https://copaxtracker.firebaseio.com",
+    "project_id": "copaxtracker",
+    "storage_bucket": "copaxtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371394754910:android:afeba6c4c8eae847",
+        "android_client_info": {
+          "package_name": "com.example.pukar.copaxtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371394754910-enk52154nfcqsvkpfr8vn0fvkacaqth3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pukar.copaxtracker",
+            "certificate_hash": "adab7cc1abe0112c5c256079c65d5fbb1c0624ea"
+          }
+        },
+        {
+          "client_id": "371394754910-oemhaipkba2tn3d47fpai23jsr8cr7j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlY_5JzHGG5pWbux_VuOVwnujVkeHFdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371394754910-oemhaipkba2tn3d47fpai23jsr8cr7j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
