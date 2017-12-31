@@ -1,6 +1,7 @@
 package com.example.pukar.copaxtracker;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.net.Uri;
 import android.support.v4.widget.TextViewCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -52,20 +53,9 @@ public class HomeActivity extends AppCompatActivity {
         txtTutorial.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startTutorialVideo(videoTutorial);
+
             }
         });
 
-    }
-
-    private void startTutorialVideo(VideoView video){
-        String videoUrl = "http://www.w3schools.com/html5/movie.mp4";
-        MediaController mc = new MediaController(this);
-        mc.setAnchorView(video);
-        mc.setMediaPlayer(video);
-        Uri uri = Uri.parse(videoUrl);
-        video.setMediaController(mc);
-        video.setVideoURI(uri);
-        video.start();
     }
 }
